@@ -1,4 +1,5 @@
-[![DOI](https://zenodo.org/badge/361653398.svg)](https://zenodo.org/badge/latestdoi/361653398)
+[![](https://zenodo.org/badge/DOI/10.5281/zenodo.4719520.svg)](https://doi.org/10.5281/zenodo.4719520)
+
 
 # COBADIM XRF results
 
