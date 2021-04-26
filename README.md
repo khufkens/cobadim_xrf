@@ -3,7 +3,7 @@
 
 # COBADIM XRF results
 
-These are the results of the XRF scans in the [Ca] domain for a select number of wood cores / sections. These data are freely available for review and exploration. If you want to publish with these data please contact myself (Koen Hufkens) or Jan Van den Bulcke (Woodlab, Ghent University) for further details and permission. We welcome all collaborations in order to properly assess these data within singular or a wider (global) context. These results are preliminary for now, although staticically backed up at zenodo (in a first release), caution is adviced in using these data for inference at this point.
+These are the results of the XRF scans in the [Ca] domain for a select number of wood cores / sections. These data are freely available for review and exploration. If you want to publish with these data please contact myself (Koen Hufkens) or Jan Van den Bulcke (Woodlab, Ghent University) for further details and permission. We welcome all collaborations in order to properly assess these data within singular or a wider (global) context. These results are preliminary for now, although statically backed up at zenodo (in a first release), caution is adviced in using these data for inference at this point.
 
 ## Background
 
