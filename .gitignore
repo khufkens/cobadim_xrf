@@ -1,0 +1,13 @@
+# default R excludes
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# exclude certain propriatary data
+data/ancillary_data
+data/flatbed_scans
+manuscript
+
+# remove some demo code
+analysis/*template.R
