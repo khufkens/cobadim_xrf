@@ -1,6 +1,6 @@
 # COBADIM XRF results
 
-These are the results of the XRF scans in the [Ca] domain for a select number of wood cores / sections. These data are freely available for review and exploration. If you want to publish with these data please contact myself (Koen Hufkens) or Jan Van den Bulcke (Woodlab Ghent University) for further details and permission. We welcome all collaborations in order to properly assess these data within singular or a wider (global) context.
+These are the results of the XRF scans in the [Ca] domain for a select number of wood cores / sections. These data are freely available for review and exploration. If you want to publish with these data please contact myself (Koen Hufkens) or Jan Van den Bulcke (Woodlab, Ghent University) for further details and permission. We welcome all collaborations in order to properly assess these data within singular or a wider (global) context.
 
 ## Background
 
@@ -10,6 +10,11 @@ The data are one pillar of the finished EU Marie-Curie [COBADIM](cobadim.org) pr
 
 - the `diffabsr` [package](https://github.com/bluegreen-labs/diffabsr) for processing of data from the SOLEIL beamline
 - the [COBADIM](cobadim.org) project page
+
+## Contact
+
+- [Koen Hufkens](bluegreenlabs.org)
+- [Jan Van den Bulcke](https://www.ugent.be/bw/environment/en/research/woodlab/Staff/jan-van-den-bulcke.htm)
 
 ## Acknowledgements
 
