@@ -4,7 +4,7 @@ These are the results of the XRF scans in the [Ca] domain for a select number of
 
 ## Background
 
-The data are one pillar of the finished EU Marie-Curie [COBADIM](cobadim.org) project which aimed at corroborating the use of a [Ca] tracer in tropical tree species for rapid dating and eco-physiological research into drought resistance. A second pillar, an eco-physiological manipulation experiment was sadly cancelled due to COVID. Detailed insights into ecophysiological responses will therefore mostly rely on the detailed interpretation of the data in this repository, by matching them to known disturbances and other proxy measures such as carbon (d13C) and oxygen (d18O) stable isotope.
+The data are one pillar of the finished EU Marie-Curie [COBADIM](cobadim.org) project which aimed at corroborating the use of a [Ca] tracer in tropical tree species for rapid dating and eco-physiological research into drought resistance. A second pillar, an eco-physiological manipulation experiment was sadly cancelled due to COVID. Detailed insights into ecophysiological responses will therefore mostly rely on the detailed interpretation of the data in this repository, by matching them to known disturbances and other proxy measures such as carbon (d13C) and oxygen (d18O) stable isotope. For details on the second pillar, and potential PhD or Master thesis based upon this framework please contact Lisa Wingate.
 
 ## Additional links
 
@@ -15,6 +15,7 @@ The data are one pillar of the finished EU Marie-Curie [COBADIM](cobadim.org) pr
 
 - [Koen Hufkens](bluegreenlabs.org)
 - [Jan Van den Bulcke](https://www.ugent.be/bw/environment/en/research/woodlab/Staff/jan-van-den-bulcke.htm)
+- [Lisa Wingate](https://www.researchgate.net/profile/Lisa-Wingate)
 
 ## Acknowledgements
 
